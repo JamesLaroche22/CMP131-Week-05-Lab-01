@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: James Laroche
+- Week: 5
+- Lab: 1
+- Date: 9/30/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [+] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
